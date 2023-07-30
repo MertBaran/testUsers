@@ -1,0 +1,36 @@
+[
+  {
+    "ID": 1,
+    "USERNAME": "admin",
+    "FIRSTNAME": "Admin",
+    "LASTNAME": "Adminoğlu",
+    "PASSWORD": "VvOYDAjU4dM4u5pFF4qguO1zEG9GTV/Pkvi32PR5lbUpvAIPl1rpmasTXWUNYvTyI/Omt35dLb3qU8PQ9+9PxQ==",
+    "EMAIL": "admin@synergy.com",
+    "STATUS": 1,
+    "TYPE": 0,
+    "IMPORTSTATUS": 0,
+    "BIRTHDATE": "1998-01-01T00:00:00+03:00",
+    "EMPLOYEMENTSTART": "2018-01-01T00:00:00+03:00",
+    "CATEGORY": 0,
+    "SEX": 3,
+    "DEPARTMENT": 1,
+    "PROFESSION": 1
+  },
+  {
+    "ID": 2,
+    "USERNAME": "ndale",
+    "FIRSTNAME": "Nelson",
+    "LASTNAME": "Dale",
+    "PASSWORD": "oHNXHFtVAvmPXMYffzV/RNFgcvweqps8sDjqLDwmtr/QW8spqoG2SHCwLbiGtB4fLToZPXaVNTjXKPmfWlOgtg==",
+    "EMAIL": "ndale@synergy.com",
+    "STATUS": 1,
+    "TYPE": 0,
+    "IMPORTSTATUS": 0,
+    "BIRTHDATE": "1998-01-01T00:00:00+03:00",
+    "EMPLOYEMENTSTART": "2018-01-01T00:00:00+03:00",
+    "CATEGORY": 0,
+    "SEX": 3,
+    "DEPARTMENT": 4,
+    "PROFESSION": 2
+   }
+]
